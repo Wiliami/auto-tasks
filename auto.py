@@ -4,7 +4,7 @@ import time
 
 
 pyautogui.PAUSE = 1
-yautogui.press('winleft')
+pyautogui.press('winleft')
 # pyautogui.write('chrome')
 # pyautogui.press('enter')
 # #pyautogui.alert('Seja bem-vindo ao chrome!')
